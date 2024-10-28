@@ -1,5 +1,5 @@
 ---
-title: 7-17 Nipigon Avenue
+title: REIT Valuation Tool
 slug: case-study-2
 date: '2022-02-16'
 excerpt: >-
