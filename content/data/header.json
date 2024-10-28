@@ -81,7 +81,7 @@
             "type": "Button"
         }
     ],
-    "variant": "logo-left-primary-nav-right",
+    "variant": "logo-left-primary-nav-left",
     "colors": "bg-light-fg-dark",
     "type": "Header"
 }
