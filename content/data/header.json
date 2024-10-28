@@ -47,7 +47,7 @@
             "iconPosition": "right",
             "style": "primary",
             "type": "Button",
-            "altText": "dddd"
+            "altText": ""
         }
     ],
     "variant": "logo-left-primary-nav-left",
