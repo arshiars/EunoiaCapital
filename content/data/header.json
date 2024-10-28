@@ -30,6 +30,17 @@
             "type": "Link"
         },
         {
+            "type": "Link",
+            "label": "See Tutorials",
+            "altText": "",
+            "url": "/",
+            "showIcon": false,
+            "icon": "arrowRight",
+            "iconPosition": "right",
+            "style": "primary",
+            "elementId": ""
+        },
+        {
             "label": "Careers",
             "altText": "Careers page",
             "url": "/careers",
