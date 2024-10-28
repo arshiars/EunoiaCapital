@@ -340,7 +340,7 @@ sections:
         style: primary
     media:
       type: ImageBlock
-      url: /images/Artboard 7.svg
+      url: /images/1702579367980.jpeg
       altText: Dope design preview
     colors: bg-light-fg-dark
     styles:
