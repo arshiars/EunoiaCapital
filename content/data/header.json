@@ -73,15 +73,6 @@
     ],
     "secondaryLinks": [
         {
-            "label": "Call",
-            "altText": "Sign up",
-            "url": "/",
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "secondary",
-            "type": "Button"
-        },
-        {
             "label": "Get in Touch",
             "url": "/",
             "icon": "arrowRight",
