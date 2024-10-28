@@ -13,7 +13,7 @@ sections:
       construction projects across Canada. We use cutting-edge technology to
       identify undervalued investment opportunities across the country.
     actions:
-      - label: Get started
+      - label: Submit a Project
         altText: ''
         url: /
         showIcon: false
