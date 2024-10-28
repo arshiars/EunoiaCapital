@@ -91,7 +91,7 @@ sections:
         text: >
           We seek management teams in our portfolio companies that demonstrate a
           blend of intelligence, integrity, and drive. The right people drive
-          the best outcomes.
+          the best outcomes without supervision.
         image:
           url: /images/icon2.svg
           altText: Featured icon two
