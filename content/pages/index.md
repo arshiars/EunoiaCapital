@@ -650,10 +650,12 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: Section with a form subtitle
-    text: |
+    text: >
       Have a real estate investment opportunity or cutting-edge idea?
 
-      We'd love to hear back from you!
+
+      We'd love to hear from you! Fill the form and we'll respond within one
+      hour.
     media:
       fields:
         - name: name
