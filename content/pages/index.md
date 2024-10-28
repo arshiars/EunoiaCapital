@@ -58,7 +58,7 @@ sections:
     subtitle: ''
     items:
       - type: FeaturedItem
-        title: No Free Lunch
+        title: Right Numbers
         subtitle: Numbers Done
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
