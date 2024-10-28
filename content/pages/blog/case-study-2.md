@@ -1,5 +1,5 @@
 ---
-title: Nipigon Avenue
+title: 7-17 Nipigon Avenue
 slug: case-study-2
 date: '2022-02-16'
 excerpt: >-
