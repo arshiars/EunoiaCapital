@@ -1,5 +1,5 @@
 ---
-title: REIT Valuation Tool
+title: 251-259 Oxford
 slug: case-study-2
 date: '2022-02-16'
 excerpt: >-
