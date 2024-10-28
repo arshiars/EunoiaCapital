@@ -88,7 +88,7 @@ sections:
             self:
               borderRadius: x-large
       - title: Right People
-        subtitle: Avoid
+        subtitle: Character over chaos.
         text: >
           We seek management teams in our portfolio companies that demonstrate a
           blend of intelligence, integrity, and drive. 
