@@ -8,7 +8,7 @@ excerpt: >-
   Etiam at cursus enim. Suspendisse sed augue tortor. Nunc eu magna vitae lorem
   pellentesque fermentum. Sed in facilisis dui.
 featuredImage:
-  url: /images/EunoiaCapital-Nipigon.jpg
+  url: /images/EunoiaCapital-Nipigon-3.jpg
   altText: Case study 3
   styles:
     self:
