@@ -652,9 +652,7 @@ sections:
     subtitle: >-
       We'd love to hear from you! Fill the form and we'll respond within one
       hour.
-    text: >
-      We'd love to hear from you! Fill the form and we'll respond within one
-      hour.
+    text: ''
     media:
       fields:
         - name: name
