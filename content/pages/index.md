@@ -54,6 +54,7 @@ sections:
       backgroundPosition: center
       backgroundRepeat: no-repeat
       opacity: 100
+      url: /images/EunoiaCapital-Sky-Toronto.jpg
   - type: FeaturedItemsSection
     title:
       text: Our Investment Philosophy
