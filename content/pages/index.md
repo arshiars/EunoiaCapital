@@ -646,7 +646,7 @@ sections:
         textAlign: center
     type: FeaturedItemsSection
   - title:
-      text: Have a real estate investment opportunity or technology idea?
+      text: Have a real estate investment opportunity or an interesting idea?
       color: text-dark
       type: TitleBlock
     subtitle: ''
