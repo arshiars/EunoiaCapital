@@ -108,7 +108,7 @@ sections:
             textAlign: left
             justifyContent: center
         type: FeaturedItem
-      - title: Right Insights
+      - title: Right Mix
         subtitle: j
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
