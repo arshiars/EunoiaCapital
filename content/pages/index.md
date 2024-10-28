@@ -315,7 +315,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Value to our Porfolio Companies
+      text: A GOOD PARTNER
       color: text-dark
     subtitle: Be in good company
     text: >
