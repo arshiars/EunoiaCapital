@@ -111,7 +111,7 @@ sections:
             textAlign: left
             justifyContent: center
         type: FeaturedItem
-      - title: Right People
+      - title: Right Insights
         subtitle: Faster
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
