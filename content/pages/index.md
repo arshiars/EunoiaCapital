@@ -49,7 +49,7 @@ sections:
           - pr-16
   - type: FeaturedItemsSection
     title:
-      text: Key Benefits
+      text: Investment Philosophy
       color: text-dark
       styles:
         self:
