@@ -43,7 +43,7 @@
         {
             "label": "Get in Touch",
             "url": "#contact-us",
-            "icon": "arrowRight",
+            "icon": "mail",
             "iconPosition": "right",
             "style": "primary",
             "type": "Button",
