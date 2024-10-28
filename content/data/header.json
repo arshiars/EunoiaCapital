@@ -74,7 +74,7 @@
     "secondaryLinks": [
         {
             "label": "Get in Touch",
-            "url": "/contact-us",
+            "url": "#contact-us",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "primary",
