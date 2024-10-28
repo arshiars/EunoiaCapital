@@ -343,7 +343,7 @@ sections:
           - pt-16
           - pb-16
           - pl-32
-          - pr-16
+          - pr-3
     type: GenericSection
   - title: Divider
     colors: bg-light-fg-dark
