@@ -167,7 +167,7 @@ sections:
             textAlign: left
         type: FeaturedItem
     actions:
-      - label: Invest with Us
+      - label: Become an Investor
         altText: ''
         url: /
         showIcon: false
