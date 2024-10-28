@@ -152,7 +152,7 @@ sections:
         elementId: ''
         type: Button
     elementId: ''
-    variant: toggle-list
+    variant: small-list
     colors: bg-neutral-fg-dark
     styles:
       self:
