@@ -346,7 +346,7 @@ sections:
       altText: altText of the image
       backgroundSize: auto
       backgroundPosition: center
-      backgroundRepeat: no-repeat
+      backgroundRepeat: repeat-y
       opacity: 100
       url: /images/1702579367980.jpeg
   - title:
