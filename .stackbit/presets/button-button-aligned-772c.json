@@ -1,0 +1,28 @@
+{
+    "model": "Button",
+    "srcType": "git",
+    "srcProjectId": "9a0364b9",
+    "presets": [
+        {
+            "label": "Button-aligned",
+            "locale": null,
+            "metadata": {
+                "categories": [
+                    "Bottons"
+                ],
+                "canDelete": true
+            },
+            "data": {
+                "label": "Submit Your Investment Opportunity",
+                "altText": null,
+                "url": "/",
+                "showIcon": null,
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "style": "secondary",
+                "elementId": null
+            },
+            "thumbnail": "images/button-button-aligned-772c.png"
+        }
+    ]
+}
