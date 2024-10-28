@@ -61,8 +61,9 @@ sections:
         title: Right Numbers
         subtitle: There is no free lunch.
         text: >
-          We run models to make sure our investments make sense even in case of
-          economic distress. Instead of focusing on the upside, we try to run. 
+          Rather than focusing solely on potential gains, we stress-test
+          projects against adverse tail-event scenarios to understand their
+          resilience.
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
