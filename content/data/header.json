@@ -67,7 +67,7 @@
             "url": "#contact-us",
             "icon": "mail",
             "iconPosition": "right",
-            "style": "primary",
+            "style": "secondary",
             "type": "Button",
             "altText": "",
             "showIcon": true
