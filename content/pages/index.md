@@ -312,7 +312,7 @@ sections:
       businesses.
     actions:
       - type: Button
-        label: Get started
+        label: Submit Your Investment Opportunity
         url: /
         icon: arrowRight
         iconPosition: right
