@@ -88,8 +88,10 @@ sections:
               borderRadius: x-large
       - title: Right People
         subtitle: M
-        text: |
-          We look for a mix of intellegence, integrity, and energy.
+        text: >
+          We look for a mix of intellegence, integrity, and energy in our
+          portfolio companies' managements. We value long-term relationship with
+          people who put integrity first.
         image:
           url: /images/icon2.svg
           altText: Featured icon two
