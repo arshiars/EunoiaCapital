@@ -227,7 +227,7 @@ sections:
     type: DividerSection
   - type: GenericSection
     title:
-      text: Generic section with a video
+      text: REIT VALUATION
       color: text-dark
       styles:
         self:
