@@ -118,7 +118,7 @@ sections:
           diversifying our portfolio to minimize unsystematic risk with a focus
           on long-term survival. 
         image:
-          url: /images/icon3.svg
+          url: /images/undo.png
           altText: Featured icon three
           elementId: ''
           type: ImageBlock
