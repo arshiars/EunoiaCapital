@@ -48,7 +48,7 @@
             "style": "primary",
             "type": "Button",
             "altText": "",
-            "showIcon": true
+            "showIcon": false
         }
     ],
     "variant": "logo-left-primary-nav-left",
