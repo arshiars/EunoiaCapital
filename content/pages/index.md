@@ -649,9 +649,7 @@ sections:
       text: Have a real estate investment opportunity or an interesting idea?
       color: text-dark
       type: TitleBlock
-    subtitle: >-
-      We'd love to hear from you! Fill the form and we'll respond within one
-      hour.
+    subtitle: ''
     text: ''
     media:
       fields:
