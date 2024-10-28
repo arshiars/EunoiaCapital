@@ -59,7 +59,7 @@ sections:
     items:
       - type: FeaturedItem
         title: Right Numbers
-        subtitle: Numbers Done
+        subtitle: There is no free lunch.
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
