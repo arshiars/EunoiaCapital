@@ -22,7 +22,7 @@ sections:
         style: secondary
         elementId: ''
         type: Button
-      - label: Become an Investor
+      - label: ''
         altText: ''
         url: /
         showIcon: true
