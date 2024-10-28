@@ -91,8 +91,7 @@ sections:
         subtitle: M
         text: >
           We seek management teams in our portfolio companies that demonstrate a
-          blend of intelligence, integrity, and drive. The right people drive
-          the best outcomes without supervision.
+          blend of intelligence, integrity, and drive. 
         image:
           url: /images/icon2.svg
           altText: Featured icon two
