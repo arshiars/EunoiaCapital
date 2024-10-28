@@ -282,7 +282,7 @@ sections:
         showIcon: false
         icon: arrowRight
         iconPosition: right
-        style: primary
+        style: secondary
         elementId: ''
     media:
       title: Title of the video
