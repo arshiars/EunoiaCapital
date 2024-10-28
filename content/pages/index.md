@@ -702,6 +702,10 @@ sections:
       type: Badge
       label: CONTACT US
       color: text-primary
+    styles:
+      self:
+        padding:
+          - pt-4
 seo:
   metaTitle: Home - Demo site
   metaDescription: This demo site is built with Netlify Create.
