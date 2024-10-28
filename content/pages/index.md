@@ -363,7 +363,7 @@ sections:
         style: secondary
         type: Button
     media:
-      url: /images/EunoiaCapital-blockchain-network.png
+      url: /images/tempImageV1OCT6.jpg
       altText: Fun feature preview
       type: ImageBlock
       styles:
