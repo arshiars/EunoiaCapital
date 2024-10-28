@@ -4,7 +4,9 @@
         "altText": "Logo dark",
         "styles": {
             "self": {
-                "margin": ["mr-3"]
+                "margin": [
+                    "mr-3"
+                ]
             }
         },
         "type": "ImageBlock"
@@ -21,7 +23,7 @@
         {
             "label": "Blog",
             "altText": "Blog",
-            "url": "/blog",
+            "url": "gokoo.ca/blog",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
