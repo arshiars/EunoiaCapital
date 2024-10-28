@@ -113,8 +113,8 @@ sections:
       - title: Right Mix
         subtitle: j
         text: >
-          We acknowledge that everyone makes mistakes. Therefore, we try to
-          diversify our portfolio to avoid unsystematic portfolio risk.
+          We recognize that mistakes are inevitable, and we focus on
+          diversifying our portfolio to minimize unsystematic risk.
         image:
           url: /images/icon3.svg
           altText: Featured icon three
