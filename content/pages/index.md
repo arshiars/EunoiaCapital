@@ -211,6 +211,10 @@ sections:
       type: TitleBlock
       text: Past Involvements
       color: text-dark
+    badge:
+      type: Badge
+      label: This is a badge
+      color: text-primary
   - title: Divider
     colors: bg-light-fg-dark
     styles:
