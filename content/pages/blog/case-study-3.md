@@ -1,5 +1,5 @@
 ---
-title: '7-17 Nipigon Avee7-17 Nipigon AvenueNov 18, 2021'
+title: 7-17 Nipigon Ave.
 slug: case-study-3
 date: '2021-11-18'
 excerpt: >-
