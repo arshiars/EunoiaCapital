@@ -321,7 +321,7 @@ sections:
       A service that helps businesses to manage their social media accounts and
       posts.
     actions:
-      - label: Get started
+      - label: Download our Real Estate Tokenization Deck
         url: /
         icon: arrowRight
         iconPosition: right
