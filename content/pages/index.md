@@ -59,7 +59,7 @@ sections:
     items:
       - type: FeaturedItem
         title: Right Numbers
-        subtitle: There is no free lunch.
+        subtitle: Margin of safety in mind.
         text: >
           Rather than focusing solely on potential gains, we stress-test
           projects against adverse tail-event scenarios to understand their
