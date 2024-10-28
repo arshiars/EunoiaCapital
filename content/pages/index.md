@@ -344,47 +344,6 @@ sections:
       self:
         alignItems: center
         flexDirection: row-reverse
-  - type: GenericSection
-    title:
-      type: TitleBlock
-      text: A GOOD PARTNER
-      color: text-dark
-    subtitle: Be in good company
-    text: >
-      A service that provides advice and guidance to startups and small
-      businesses.
-    actions:
-      - type: Button
-        label: Submit Your Investment Opportunity
-        url: '#contact-us'
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-    media:
-      type: ImageBlock
-      altText: Dope design preview
-    badge:
-      type: Badge
-      label: ''
-      color: text-primary
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        alignItems: center
-        flexDirection: row-reverse
-        padding:
-          - pt-28
-          - pl-96
-          - pb-28
-          - pr-0
-    backgroundImage:
-      type: BackgroundImage
-      altText: altText of the image
-      backgroundSize: auto
-      backgroundPosition: center
-      backgroundRepeat: no-repeat
-      opacity: 30
-      url: /images/1702579367980.jpeg
   - title:
       text: WELL RESEARCHED
       color: text-dark
