@@ -331,6 +331,10 @@ sections:
       url: /images/EunoiaCapital-blockchain-network.png
       altText: Fun feature preview
       type: ImageBlock
+      styles:
+        self:
+          padding:
+            - pl-7
     colors: bg-light-fg-dark
     styles:
       self:
