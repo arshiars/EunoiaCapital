@@ -334,7 +334,7 @@ sections:
       styles:
         self:
           padding:
-            - pl-12
+            - pl-0
     colors: bg-light-fg-dark
     styles:
       self:
