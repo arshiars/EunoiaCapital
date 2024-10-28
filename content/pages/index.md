@@ -23,7 +23,7 @@ sections:
         elementId: ''
         type: Button
       - type: Button
-        label: Become an Investor
+        label: Invest with Us
         altText: ''
         url: /
         showIcon: false
