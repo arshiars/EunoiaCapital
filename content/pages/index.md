@@ -340,6 +340,11 @@ sections:
       self:
         alignItems: center
         flexDirection: row-reverse
+        padding:
+          - pt-16
+          - pl-16
+          - pb-16
+          - pr-16
     backgroundImage:
       type: BackgroundImage
       altText: altText of the image
