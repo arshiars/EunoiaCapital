@@ -328,7 +328,7 @@ sections:
         style: secondary
         type: Button
     media:
-      url: /images/EunoiaCapital-blockchain.png
+      url: /images/EunoiaCapital-blockchain-network.png
       altText: Fun feature preview
       type: ImageBlock
     colors: bg-light-fg-dark
