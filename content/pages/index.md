@@ -233,7 +233,7 @@ sections:
         self:
           textAlign: left
       type: TitleBlock
-    subtitle: REIT VALUATION TOOL
+    subtitle: EUNOIA REIT VALUATION TOOL
     text: >
       REIT stock prices do not always reflect the value of their underlying
       assets, creating investment opporinuties. Eunoia Capital's REIT valuation
