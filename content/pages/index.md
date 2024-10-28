@@ -23,7 +23,7 @@ sections:
         elementId: ''
         type: Button
       - type: Button
-        label: Become an Investor
+        label: New Investor
         altText: ''
         url: /
         showIcon: false
