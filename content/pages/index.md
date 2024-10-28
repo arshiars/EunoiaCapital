@@ -649,7 +649,7 @@ sections:
       text: Get in touch!
       color: text-dark
       type: TitleBlock
-    subtitle: Section with a form subtitle
+    subtitle: ''
     text: >
       Have a real estate investment opportunity or cutting-edge idea?
 
