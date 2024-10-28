@@ -214,7 +214,7 @@ sections:
       styles:
         self:
           textAlign: center
-          fontWeight: 400
+          fontWeight: 500
   - title: Divider
     colors: bg-light-fg-dark
     styles:
