@@ -274,7 +274,7 @@ sections:
       minutes and recommends "BUY" if the REIT is undervalued.
     actions:
       - type: Button
-        label: Get started
+        label: Submit Your Technology Idea
         altText: ''
         url: /
         showIcon: false
