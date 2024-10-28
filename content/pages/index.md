@@ -342,7 +342,7 @@ sections:
         padding:
           - pt-16
           - pb-16
-          - pl-16
+          - pl-32
           - pr-16
     type: GenericSection
   - title: Divider
