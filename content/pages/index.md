@@ -112,7 +112,7 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: Right Insights
-        subtitle: Faster
+        subtitle: j
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
