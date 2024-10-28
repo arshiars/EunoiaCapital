@@ -227,7 +227,7 @@ sections:
     type: DividerSection
   - type: GenericSection
     title:
-      text: REIT VALUATION
+      text: OPEN TO IDEAS
       color: text-dark
       styles:
         self:
