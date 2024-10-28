@@ -343,7 +343,7 @@ sections:
         padding:
           - pt-28
           - pl-0
-          - pb-0
+          - pb-28
           - pr-0
     backgroundImage:
       type: BackgroundImage
