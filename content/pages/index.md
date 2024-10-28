@@ -114,7 +114,8 @@ sections:
         subtitle: j
         text: >
           We recognize that mistakes are inevitable, and we focus on
-          diversifying our portfolio to minimize unsystematic risk.
+          diversifying our portfolio to minimize unsystematic risk with a focus
+          on long-term survival. 
         image:
           url: /images/icon3.svg
           altText: Featured icon three
