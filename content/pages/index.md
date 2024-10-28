@@ -708,7 +708,7 @@ sections:
           - pt-16
           - pb-16
           - pr-10
-          - pl-10
+          - pl-8
 seo:
   metaTitle: Home - Demo site
   metaDescription: This demo site is built with Netlify Create.
