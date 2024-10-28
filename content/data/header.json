@@ -82,7 +82,7 @@
             "type": "Button"
         },
         {
-            "label": "Email",
+            "label": "Get in Touch",
             "url": "/",
             "icon": "arrowRight",
             "iconPosition": "right",
