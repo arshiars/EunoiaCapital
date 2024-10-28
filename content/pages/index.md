@@ -651,10 +651,9 @@ sections:
       type: TitleBlock
     subtitle: Section with a form subtitle
     text: |
-      Have a real estate investment opportunity or technology idea? 
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+      Have a real estate investment opportunity or cutting-edge idea?
+
+      We'd love to hear back from you!
     media:
       fields:
         - name: name
