@@ -278,7 +278,7 @@ sections:
       - type: Button
         label: Submit Your Technology Idea
         altText: ''
-        url: /
+        url: '#contact-us'
         showIcon: false
         icon: arrowRight
         iconPosition: right
