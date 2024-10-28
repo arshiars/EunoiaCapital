@@ -348,6 +348,7 @@ sections:
       backgroundPosition: center
       backgroundRepeat: no-repeat
       opacity: 100
+      url: /images/1702579367980.jpeg
   - title:
       text: WELL RESEARCHED
       color: text-dark
