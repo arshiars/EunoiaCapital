@@ -653,7 +653,7 @@ sections:
       backgroundSize: cover
       backgroundPosition: center
       backgroundRepeat: no-repeat
-      opacity: 10
+      opacity: 25
       url: /images/skyscraper-with-word-city-bottom.jpg
 seo:
   metaTitle: Home - Demo site
