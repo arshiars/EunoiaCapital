@@ -9,9 +9,9 @@ sections:
       type: TitleBlock
     subtitle: Subtitle goes here
     text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+      Eunoia Capital is a real estate fund focused on development and
+      construction projects across Canada. We aspire to use cutting-edge
+      technology to identify undervalue investments across the country.
     actions:
       - label: Get started
         altText: ''
