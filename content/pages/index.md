@@ -7,7 +7,7 @@ sections:
       text: Bringing Canadian Real Estate Opportunities Under One Roof
       color: text-dark
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: Connecting investors with the best investment projects
     text: >
       Eunoia Capital is a real estate fund focused on development and
       construction projects across Canada. We use cutting-edge technology to
