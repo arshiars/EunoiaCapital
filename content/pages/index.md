@@ -310,6 +310,8 @@ sections:
       self:
         flexDirection: row
         justifyContent: center
+        padding:
+          - pt-16
       subtitle:
         textAlign: left
   - type: GenericSection
