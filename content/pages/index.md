@@ -705,10 +705,10 @@ sections:
     styles:
       self:
         padding:
-          - pt-16
-          - pb-16
-          - pr-6
-          - pl-6
+          - pt-10
+          - pb-10
+          - pr-10
+          - pl-10
 seo:
   metaTitle: Home - Demo site
   metaDescription: This demo site is built with Netlify Create.
