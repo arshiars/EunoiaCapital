@@ -310,6 +310,9 @@ sections:
       self:
         flexDirection: row
         justifyContent: center
+        padding:
+          - pt-32
+          - pb-32
       subtitle:
         textAlign: left
   - type: GenericSection
@@ -323,19 +326,22 @@ sections:
       businesses.
     actions:
       - type: Button
-        label: Submit Your Investment Opportunity
-        url: '#contact-us'
+        label: Get started
+        url: /
         icon: arrowRight
         iconPosition: right
         style: secondary
+      - type: Link
+        label: See Tutorials
+        url: /
+        showIcon: true
+        icon: arrowRight
+        iconPosition: right
+        style: primary
     media:
       type: ImageBlock
-      url: /images/hero3.svg
+      url: /images/1702579367980.jpeg
       altText: Dope design preview
-    badge:
-      type: Badge
-      label: ''
-      color: text-primary
     colors: bg-light-fg-dark
     styles:
       self:
@@ -357,7 +363,7 @@ sections:
         style: secondary
         type: Button
     media:
-      url: /images/EunoiaCapital-blockchain-network.png
+      url: /images/tempImageV1OCT6.jpg
       altText: Fun feature preview
       type: ImageBlock
       styles:
