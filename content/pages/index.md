@@ -249,6 +249,15 @@ sections:
         iconPosition: left
         style: primary
         elementId: ''
+      - type: Button
+        label: Get started
+        altText: ''
+        url: /
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+        elementId: ''
     media:
       title: Title of the video
       url: /images/EunoiaCapital-REIT-Valuation.mp4
