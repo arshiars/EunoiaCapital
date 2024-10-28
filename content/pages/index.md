@@ -324,7 +324,7 @@ sections:
     actions:
       - type: Button
         label: Submit Your Investment Opportunity
-        url: /
+        url: '#contact-us'
         icon: arrowRight
         iconPosition: right
         style: secondary
