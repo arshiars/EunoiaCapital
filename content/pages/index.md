@@ -49,7 +49,7 @@ sections:
           - pr-16
   - type: FeaturedItemsSection
     title:
-      text: Investment Philosophy
+      text: Our Investment Philosophy
       color: text-dark
       styles:
         self:
