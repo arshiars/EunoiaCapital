@@ -679,10 +679,10 @@ sections:
       styles:
         self:
           padding:
-            - pt-0
-            - pb-0
-            - pl-0
-            - pr-0
+            - pt-6
+            - pb-6
+            - pl-6
+            - pr-6
           borderColor: border-dark
           borderStyle: solid
           borderWidth: 1
