@@ -1,6 +1,5 @@
 {
     "logo": {
-        "url": "/images/Eunoia Capital logo (deep blue).svg",
         "altText": "Logo dark",
         "styles": {
             "self": {
@@ -9,7 +8,8 @@
                 ]
             }
         },
-        "type": "ImageBlock"
+        "type": "ImageBlock",
+        "url": "/images/Eunoia-Capital-logo.jpg"
     },
     "primaryLinks": [
         {
@@ -37,7 +37,7 @@
             "showIcon": false,
             "icon": "arrowRight",
             "iconPosition": "right",
-            "style": "primary",
+            "style": "secondary",
             "elementId": ""
         },
         {
@@ -48,7 +48,7 @@
             "showIcon": false,
             "icon": "arrowRight",
             "iconPosition": "right",
-            "style": "primary",
+            "style": "secondary",
             "elementId": ""
         },
         {
@@ -67,14 +67,14 @@
             "url": "#contact-us",
             "icon": "mail",
             "iconPosition": "right",
-            "style": "primary",
+            "style": "secondary",
             "type": "Button",
             "altText": "",
             "showIcon": true
         }
     ],
     "variant": "logo-left-primary-nav-left",
-    "colors": "bg-light-fg-dark",
+    "colors": "bg-dark-fg-light",
     "type": "Header",
     "title": ""
 }
