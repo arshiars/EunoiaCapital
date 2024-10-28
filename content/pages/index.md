@@ -345,7 +345,7 @@ sections:
       type: BackgroundImage
       altText: altText of the image
       backgroundSize: auto
-      backgroundPosition: right-bottom
+      backgroundPosition: left-bottom
       backgroundRepeat: no-repeat
       opacity: 100
       url: /images/1702579367980.jpeg
