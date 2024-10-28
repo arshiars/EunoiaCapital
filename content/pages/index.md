@@ -284,12 +284,6 @@ sections:
         iconPosition: right
         style: secondary
         elementId: ''
-      - type: Button
-        label: Submit Your Investment Opportunity
-        url: /
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
     media:
       title: Title of the video
       url: /images/EunoiaCapital-REIT-Valuation.mp4
