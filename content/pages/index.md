@@ -112,7 +112,7 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: Right Mix
-        subtitle: j
+        subtitle: All in for error-correction.
         text: >
           We recognize that mistakes are inevitable, and we focus on
           diversifying our portfolio to minimize unsystematic risk with a focus
