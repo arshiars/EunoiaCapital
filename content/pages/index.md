@@ -342,7 +342,7 @@ sections:
         flexDirection: row-reverse
         padding:
           - pt-28
-          - pl-44
+          - pl-96
           - pb-28
           - pr-0
     backgroundImage:
