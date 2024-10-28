@@ -294,39 +294,6 @@ sections:
       self:
         alignItems: center
         flexDirection: row-reverse
-  - title:
-      text: WELL RESEARCHED
-      color: text-dark
-      type: TitleBlock
-    subtitle: BLOCKCHAIN AND CROWDFUNDING
-    text: >
-      A service that helps businesses to manage their social media accounts and
-      posts.
-    actions:
-      - label: Download our Real Estate Tokenization Deck
-        url: /
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-        type: Button
-    media:
-      url: /images/EunoiaCapital-blockchain-network.png
-      altText: Fun feature preview
-      type: ImageBlock
-      styles:
-        self:
-          padding:
-            - pl-0
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        alignItems: center
-        padding:
-          - pt-16
-          - pb-16
-          - pl-32
-          - pr-0
-    type: GenericSection
   - type: GenericSection
     title:
       text: OPEN TO IDEAS
@@ -370,6 +337,39 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: left
+  - title:
+      text: WELL RESEARCHED
+      color: text-dark
+      type: TitleBlock
+    subtitle: BLOCKCHAIN AND CROWDFUNDING
+    text: >
+      A service that helps businesses to manage their social media accounts and
+      posts.
+    actions:
+      - label: Download our Real Estate Tokenization Deck
+        url: /
+        icon: arrowRight
+        iconPosition: right
+        style: secondary
+        type: Button
+    media:
+      url: /images/EunoiaCapital-blockchain-network.png
+      altText: Fun feature preview
+      type: ImageBlock
+      styles:
+        self:
+          padding:
+            - pl-0
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        alignItems: center
+        padding:
+          - pt-16
+          - pb-16
+          - pl-32
+          - pr-0
+    type: GenericSection
   - title: Divider
     colors: bg-light-fg-dark
     styles:
