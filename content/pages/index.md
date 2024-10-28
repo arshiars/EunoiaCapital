@@ -15,7 +15,7 @@ sections:
     actions:
       - label: Submit a Project
         altText: ''
-        url: /
+        url: '#contact-us'
         showIcon: false
         icon: arrowRight
         iconPosition: right
@@ -25,7 +25,7 @@ sections:
       - type: Button
         label: Invest with Us
         altText: ''
-        url: /
+        url: '#contact-us'
         showIcon: false
         icon: arrowRight
         iconPosition: right
@@ -96,7 +96,7 @@ sections:
               borderRadius: x-large
       - type: FeaturedItem
         title: Feature Item One
-        tagline: This is the tagline
+        tagline: ''
         subtitle: This is the item subtitle
         text: |
           Follow the tutorial to build your first Netlify Create site.
@@ -267,12 +267,23 @@ sections:
           textAlign: left
       type: TitleBlock
     subtitle: EUNOIA REIT VALUATION TOOL
-    text: >
-      REIT stock prices do not always reflect the value of their underlying
-      assets, creating investment opporinuties. Eunoia Capital's REIT valuation
-      tool calculates the subject REIT's Net Asset Value (NAV) in a matter of
-      minutes and recommends "BUY" if the REIT is undervalued.
-    actions: []
+    text: >+
+      <div style="text-align: left">REIT stock prices do not always reflect the
+      value of their underlying assets, creating investment opporinuties. Eunoia
+      Capital's REIT valuation tool calculates the subject REIT's Net Asset
+      Value (NAV) in a matter of minutes and recommends "BUY" if the REIT is
+      undervalued.</div>
+
+    actions:
+      - type: Button
+        label: Submit Your Technology Idea
+        altText: ''
+        url: '#contact-us'
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: secondary
+        elementId: ''
     media:
       title: Title of the video
       url: /images/EunoiaCapital-REIT-Valuation.mp4
@@ -304,7 +315,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Value to our Porfolio Companies
+      text: A GOOD PARTNER
       color: text-dark
     subtitle: Be in good company
     text: >
@@ -312,25 +323,18 @@ sections:
       businesses.
     actions:
       - type: Button
-        label: Get started
-        url: /
+        label: Submit Your Investment Opportunity
+        url: '#contact-us'
         icon: arrowRight
         iconPosition: right
         style: secondary
-      - type: Link
-        label: See Tutorials
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
     media:
       type: ImageBlock
       url: /images/hero3.svg
       altText: Dope design preview
     badge:
       type: Badge
-      label: This is a badge
+      label: ''
       color: text-primary
     colors: bg-light-fg-dark
     styles:
