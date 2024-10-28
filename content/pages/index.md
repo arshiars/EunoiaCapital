@@ -52,7 +52,7 @@ sections:
       backgroundSize: cover
       backgroundPosition: center
       backgroundRepeat: no-repeat
-      opacity: 40
+      opacity: 20
       url: /images/EunoiaCapital-Sky-Toronto.jpg
   - type: FeaturedItemsSection
     title:
