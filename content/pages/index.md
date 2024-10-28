@@ -583,7 +583,7 @@ sections:
       subtitle:
         textAlign: center
   - title:
-      text: Have a real estate investment opportunity or an interesting idea?
+      text: Have a real estate investment opportunity or a partnership idea?
       color: text-dark
       type: TitleBlock
     subtitle: >-
