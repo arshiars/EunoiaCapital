@@ -52,7 +52,7 @@ sections:
       backgroundSize: cover
       backgroundPosition: center
       backgroundRepeat: no-repeat
-      opacity: 40
+      opacity: 20
       url: /images/EunoiaCapital-Sky-Toronto.jpg
   - type: FeaturedItemsSection
     title:
@@ -647,6 +647,14 @@ sections:
           - pr-8
           - pl-8
     elementId: contact-us
+    backgroundImage:
+      type: BackgroundImage
+      altText: altText of the image
+      backgroundSize: cover
+      backgroundPosition: center
+      backgroundRepeat: no-repeat
+      opacity: 11
+      url: /images/skyscraper-with-word-city-bottom.jpg
 seo:
   metaTitle: Home - Demo site
   metaDescription: This demo site is built with Netlify Create.
