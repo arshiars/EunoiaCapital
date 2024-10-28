@@ -234,11 +234,11 @@ sections:
           textAlign: left
       type: TitleBlock
     subtitle: REIT VALUATION TOOL
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: >
+      REIT stock prices do not always reflect the value of their underlying
+      assets, creating investment opporinuties. Eunoia Capital's REIT valuation
+      tool calculates the subject REIT's Net Asset Value (NAV) in a matter of
+      minutes and recommends "BUY" if the REIT is undervalued.
     actions: []
     media:
       title: Title of the video
