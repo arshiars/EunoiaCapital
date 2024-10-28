@@ -15,7 +15,7 @@ sections:
     actions:
       - label: Submit a Project
         altText: ''
-        url: /
+        url: '#contact-us'
         showIcon: false
         icon: arrowRight
         iconPosition: right
