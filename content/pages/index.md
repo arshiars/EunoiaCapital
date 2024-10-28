@@ -651,9 +651,6 @@ sections:
       type: TitleBlock
     subtitle: ''
     text: >
-      Have a real estate investment opportunity or cutting-edge idea?
-
-
       We'd love to hear from you! Fill the form and we'll respond within one
       hour.
     media:
