@@ -46,7 +46,8 @@
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "primary",
-            "type": "Button"
+            "type": "Button",
+            "altText": "dddd"
         }
     ],
     "variant": "logo-left-primary-nav-left",
