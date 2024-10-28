@@ -347,7 +347,7 @@ sections:
       backgroundSize: auto
       backgroundPosition: center
       backgroundRepeat: no-repeat
-      opacity: 0
+      opacity: 8
       url: /images/1702579367980.jpeg
   - title:
       text: WELL RESEARCHED
