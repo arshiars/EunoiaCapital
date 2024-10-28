@@ -157,7 +157,7 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-  - subtitle: Partners and Projects
+  - subtitle: "Partners\_and Projects"
     images:
       - url: /images/empathy-logo.svg
         altText: Empathy logo
