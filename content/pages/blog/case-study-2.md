@@ -1,5 +1,5 @@
 ---
-title: 251-259 Oxford
+title: 251-259 Oxford St.
 slug: case-study-2
 date: '2022-02-16'
 excerpt: >-
