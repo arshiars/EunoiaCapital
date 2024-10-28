@@ -342,6 +342,7 @@ sections:
         padding:
           - pt-16
           - pb-16
+          - pl-8
     type: GenericSection
   - title: Divider
     colors: bg-light-fg-dark
