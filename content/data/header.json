@@ -23,7 +23,7 @@
         {
             "label": "Blog",
             "altText": "Blog",
-            "url": "gokoo.ca/blog",
+            "url": "/blog",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
