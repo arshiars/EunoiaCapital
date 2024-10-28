@@ -341,7 +341,7 @@ sections:
         alignItems: center
         flexDirection: row-reverse
         padding:
-          - pt-0
+          - pt-28
           - pl-0
           - pb-0
           - pr-0
