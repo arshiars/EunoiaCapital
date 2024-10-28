@@ -646,7 +646,7 @@ sections:
         textAlign: center
     type: FeaturedItemsSection
   - title:
-      text: Get in touch!
+      text: Have a real estate investment opportunity or technology idea?
       color: text-dark
       type: TitleBlock
     subtitle: ''
