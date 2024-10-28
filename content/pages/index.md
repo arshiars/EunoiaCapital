@@ -145,7 +145,7 @@ sections:
         elementId: ''
         type: Button
     badge:
-      label: This is a badge
+      label: This is a bad
       color: text-primary
       styles:
         self:
