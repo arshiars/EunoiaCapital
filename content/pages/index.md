@@ -215,16 +215,7 @@ sections:
         self:
           textAlign: center
           fontWeight: 400
-    actions:
-      - type: Button
-        label: Get started
-        altText: ''
-        url: /
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
+    actions: []
   - title: Divider
     colors: bg-light-fg-dark
     styles:
