@@ -47,6 +47,13 @@ sections:
           - pl-16
           - pb-16
           - pr-16
+    backgroundImage:
+      type: BackgroundImage
+      altText: altText of the image
+      backgroundSize: auto
+      backgroundPosition: center
+      backgroundRepeat: no-repeat
+      opacity: 100
   - type: FeaturedItemsSection
     title:
       text: Our Investment Philosophy
