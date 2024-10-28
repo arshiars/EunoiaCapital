@@ -11,7 +11,7 @@ sections:
     text: >
       Eunoia Capital is a real estate fund focused on development and
       construction projects across Canada. We use cutting-edge technology to
-      identify undervalue investments across the country.
+      identify undervalued investment opportunities across the country.
     actions:
       - label: Get started
         altText: ''
