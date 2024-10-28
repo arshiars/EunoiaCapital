@@ -707,7 +707,7 @@ sections:
         padding:
           - pt-16
           - pb-16
-          - pr-10
+          - pr-8
           - pl-8
 seo:
   metaTitle: Home - Demo site
