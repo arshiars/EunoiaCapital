@@ -344,7 +344,7 @@ sections:
           - pt-28
           - pl-0
           - pb-28
-          - pr-0
+          - pr-24
     backgroundImage:
       type: BackgroundImage
       altText: altText of the image
