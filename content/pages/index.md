@@ -706,6 +706,7 @@ sections:
       self:
         padding:
           - pt-4
+          - pb-4
 seo:
   metaTitle: Home - Demo site
   metaDescription: This demo site is built with Netlify Create.
