@@ -706,7 +706,7 @@ sections:
       self:
         padding:
           - pt-3
-          - pb-0
+          - pb-3
           - pr-0
           - pl-0
 seo:
