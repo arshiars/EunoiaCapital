@@ -89,8 +89,9 @@ sections:
       - title: Right People
         subtitle: M
         text: >
-          We look for a mix of intellegence, integrity, and energy in our
-          portfolio companies' managements. 
+          We seek management teams in our portfolio companies that demonstrate a
+          blend of intelligence, integrity, and drive. The right people drive
+          the best outcomes.
         image:
           url: /images/icon2.svg
           altText: Featured icon two
