@@ -25,7 +25,7 @@ sections:
       - type: Button
         label: Invest with Us
         altText: ''
-        url: /
+        url: '#contact-us'
         showIcon: false
         icon: arrowRight
         iconPosition: right
