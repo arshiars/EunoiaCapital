@@ -698,6 +698,10 @@ sections:
         elementId: null
     colors: bg-light-fg-dark
     type: GenericSection
+    badge:
+      type: Badge
+      label: CONTACT US
+      color: text-primary
 seo:
   metaTitle: Home - Demo site
   metaDescription: This demo site is built with Netlify Create.
