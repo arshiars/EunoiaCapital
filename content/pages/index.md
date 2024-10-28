@@ -242,7 +242,7 @@ sections:
     actions: []
     media:
       title: Title of the video
-      url: /images/EunoiaCapital-REIT-Valuation.mp4
+      url: /public/images/EunoiaCapital-REIT-Valuation.mp4
       autoplay: true
       loop: true
       muted: true
