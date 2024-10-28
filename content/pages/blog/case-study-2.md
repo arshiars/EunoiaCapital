@@ -1,5 +1,5 @@
 ---
-title: Duchess of Oxford
+title: Nipigon Avenue
 slug: case-study-2
 date: '2022-02-16'
 excerpt: >-
