@@ -215,7 +215,7 @@ sections:
     hoverEffect: move-up
     title:
       type: TitleBlock
-      text: Past Investments
+      text: Investments
       color: text-light
       styles:
         self:
