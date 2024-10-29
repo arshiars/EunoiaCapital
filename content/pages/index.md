@@ -97,7 +97,7 @@ sections:
       - type: FeaturedItem
         title: Right Mindset
         tagline: ''
-        subtitle: This is the item subtitle
+        subtitle: Evolve with the market
         text: |
           Follow the tutorial to build your first Netlify Create site.
         image:
