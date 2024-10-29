@@ -338,9 +338,10 @@ sections:
         self:
           textAlign: center
     subtitle: Be in good company
-    text: >
-      A service that provides advice and guidance to startups and small
-      businesses.
+    text: >+
+      <div style="text-align: right">A service that provides advice and guidance
+      to startups and small businesses.</div>
+
     actions:
       - type: Button
         label: Submit Your Investment Opportunity
