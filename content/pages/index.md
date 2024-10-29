@@ -323,6 +323,7 @@ sections:
           - pt-8
           - pb-8
           - pr-3
+          - pl-3
       subtitle:
         textAlign: left
   - type: GenericSection
