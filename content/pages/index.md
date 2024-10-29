@@ -339,7 +339,7 @@ sections:
           textAlign: center
     subtitle: Be in good company
     text: >+
-      <div style="text-align: right">A service that provides advice and guidance
+      <div style="text-align: left">A service that provides advice and guidance
       to startups and small businesses.</div>
 
     actions:
