@@ -10,7 +10,7 @@ sections:
       styles:
         self:
           fontWeight: 400
-          textAlign: center
+          textAlign: left
     subtitle: Connecting investors with the best investment projects
     text: >
       Eunoia Capital is a real estate fund focused on development and
