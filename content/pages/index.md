@@ -44,7 +44,7 @@ sections:
         padding:
           - pt-7
           - pl-4
-          - pb-8
+          - pb-7
           - pr-4
     backgroundImage:
       type: BackgroundImage
