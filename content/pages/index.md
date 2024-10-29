@@ -460,7 +460,7 @@ sections:
         icon: arrowRight
         iconPosition: right
         style: primary
-        elementId: null
+        elementId: cobtact
     colors: bg-light-fg-dark
     type: GenericSection
     badge:
