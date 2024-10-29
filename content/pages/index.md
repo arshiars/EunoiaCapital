@@ -486,7 +486,7 @@ sections:
 seo:
   metaTitle: Eunoia Capital - Home
   metaDescription: This demo site is built with Netlify Create.
-  socialImage: /images/main-hero.jpg
+  socialImage: /images/Eunoia Capital logo (gold on deep blue bg).png
   type: Seo
 type: PageLayout
 ---
