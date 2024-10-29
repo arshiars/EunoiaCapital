@@ -41,15 +41,6 @@
             "elementId": ""
         },
         {
-            "label": "Careers",
-            "altText": "Careers page",
-            "url": "",
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "secondary",
-            "type": "Link"
-        },
-        {
             "type": "Link",
             "label": "See Tutorials",
             "altText": "",
