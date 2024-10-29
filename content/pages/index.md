@@ -587,7 +587,7 @@ sections:
               - pt-9
               - pb-9
               - pl-9
-              - pr-9
+              - pr-3
             textAlign: left
             borderRadius: large
             flexDirection: row
