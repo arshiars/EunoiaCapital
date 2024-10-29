@@ -490,6 +490,6 @@ seo:
     cutting-edge technology to identify investment opportunities.
   socialImage: /images/Eunoia Capital logo (gold on deep blue bg).png
   type: Seo
-  addTitleSuffix: true
+  addTitleSuffix: false
 type: PageLayout
 ---
