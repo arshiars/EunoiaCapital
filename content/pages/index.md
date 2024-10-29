@@ -120,7 +120,7 @@ sections:
               - pt-4
               - pl-4
               - pb-4
-              - pr-8
+              - pr-4
             borderRadius: x-large
             flexDirection: row
       - title: Right People
