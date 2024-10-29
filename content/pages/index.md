@@ -460,7 +460,7 @@ sections:
         icon: arrowRight
         iconPosition: right
         style: primary
-        elementId: null
+        elementId: contact
     colors: bg-light-fg-dark
     type: GenericSection
     badge:
@@ -490,5 +490,6 @@ seo:
     cutting-edge technology to identify investment opportunities.
   socialImage: /images/Eunoia Capital logo (gold on deep blue bg).png
   type: Seo
+  addTitleSuffix: false
 type: PageLayout
 ---
