@@ -1,5 +1,5 @@
 ---
-title: Sea Change in the World's Demographics & Its Impact on Real Estate
+title: 'Sea Change in the World''s Demographics '
 slug: top-twenty-ways-to-save-time
 date: '2024-09-28'
 excerpt: >-
