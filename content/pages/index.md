@@ -289,7 +289,7 @@ sections:
 
     actions:
       - type: Button
-        label: Access REIT Valuation GitHub
+        label: Access Eunoia REIT Valuation GitHub
         altText: ''
         url: '#contact-us'
         showIcon: false
