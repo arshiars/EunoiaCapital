@@ -69,7 +69,7 @@
         "case": "none",
         "letterSpacing": "normal",
         "borderRadius": "DEFAULT",
-        "shadow": "none",
+        "shadow": "xl",
         "horizontalPadding": 20,
         "verticalPadding": 12,
         "type": "ThemeStyleButton"
