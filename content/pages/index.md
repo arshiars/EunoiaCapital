@@ -45,7 +45,7 @@ sections:
           - pt-8
           - pl-16
           - pb-8
-          - pr-16
+          - pr-4
     backgroundImage:
       type: BackgroundImage
       altText: altText of the image
