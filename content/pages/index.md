@@ -422,9 +422,6 @@ sections:
       elementId: contact-form
       data-netlify: "true"
       fields:
-        - name: form-name
-          type: hidden
-          value: contact-form
         - name: name
           label: Name
           hideLabel: true
