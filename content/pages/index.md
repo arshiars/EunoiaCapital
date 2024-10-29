@@ -471,7 +471,7 @@ sections:
         padding:
           - pt-16
           - pb-16
-          - pr-8
+          - pr-3
           - pl-3
     elementId: contact-us
     backgroundImage:
