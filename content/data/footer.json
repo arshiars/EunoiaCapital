@@ -6,10 +6,10 @@
     },
     "text": "Eunoia Capital is a Toronto-based real estate investment and technology firm established in 2020. \n",
     "primaryLinks": {
-        "title": "Product",
+        "title": "MOst VISITED Links",
         "links": [
             {
-                "label": "Features",
+                "label": "Eunoia Blog",
                 "altText": "Features page",
                 "url": "/",
                 "icon": "arrowRight",
@@ -18,7 +18,7 @@
                 "type": "Link"
             },
             {
-                "label": "Pricing",
+                "label": "Gokoo Canada",
                 "url": "/pricing",
                 "icon": "arrowRight",
                 "iconPosition": "right",
@@ -26,33 +26,42 @@
                 "type": "Link"
             },
             {
-                "label": "Documentation",
+                "label": "Eunoia Home",
                 "url": "/",
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "style": "secondary",
                 "type": "Link"
+            },
+            {
+                "type": "Link",
+                "label": "6080 Yonge St.",
+                "altText": "",
+                "url": "/",
+                "showIcon": false,
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "style": "secondary",
+                "elementId": ""
+            },
+            {
+                "type": "Link",
+                "label": "Send email",
+                "altText": "Play",
+                "url": "/",
+                "showIcon": true,
+                "icon": "mail",
+                "iconPosition": "right",
+                "style": "secondary",
+                "elementId": ""
             }
         ],
         "type": "FooterLinksGroup"
     },
-    "socialLinks": [
-        {
-            "altText": "LinkedIn link",
-            "url": "https://www.linkedin.com/company/netlify",
-            "icon": "linkedin",
-            "type": "Social"
-        },
-        {
-            "altText": "Email link",
-            "url": "/",
-            "icon": "mail",
-            "type": "Social"
-        }
-    ],
+    "socialLinks": [],
     "legalLinks": [
         {
-            "label": "Terms",
+            "label": "Terms & Conditions",
             "url": "/",
             "icon": "arrowRight",
             "iconPosition": "right",
@@ -60,7 +69,7 @@
             "type": "Link"
         },
         {
-            "label": "Privacy",
+            "label": "Privacy Policy",
             "url": "/",
             "icon": "arrowRight",
             "iconPosition": "right",
