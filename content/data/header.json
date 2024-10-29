@@ -45,7 +45,7 @@
             "showIcon": true
         }
     ],
-    "variant": "logo-left-primary-nav-left",
+    "variant": "logo-left-primary-nav-right",
     "colors": "bg-dark-fg-light",
     "type": "Header",
     "title": ""
