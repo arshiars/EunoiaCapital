@@ -125,7 +125,7 @@ sections:
           We seek management teams in our portfolio companies that demonstrate a
           blend of intelligence, integrity, and drive. 
         image:
-          url: /images/Roots.png
+          url: /images/EunoiaCapital-people.png
           altText: Featured icon two
           elementId: ''
           type: ImageBlock
