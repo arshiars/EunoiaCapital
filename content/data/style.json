@@ -59,8 +59,8 @@
         "case": "none",
         "letterSpacing": "normal",
         "borderRadius": "DEFAULT",
-        "shadow": "none",
-        "horizontalPadding": 30,
+        "shadow": "xl",
+        "horizontalPadding": 20,
         "verticalPadding": 12,
         "type": "ThemeStyleButton"
     },
@@ -69,8 +69,8 @@
         "case": "none",
         "letterSpacing": "normal",
         "borderRadius": "DEFAULT",
-        "shadow": "none",
-        "horizontalPadding": 30,
+        "shadow": "xl",
+        "horizontalPadding": 12,
         "verticalPadding": 12,
         "type": "ThemeStyleButton"
     },
