@@ -443,7 +443,7 @@ sections:
       styles:
         self:
           padding:
-            - pt-2
+            - pt-0
             - pb-2
             - pl-6
             - pr-6
