@@ -76,7 +76,7 @@ styles:
   self:
     padding:
       - pt-3
-      - pl-5
+      - pl-6
       - pb-3
       - pr-3
     textAlign: center
