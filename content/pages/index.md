@@ -73,7 +73,7 @@ sections:
           resilience.
         actions: []
         elementId: null
-        colors: bg-neutralAlt-fg-dark
+        colors: bg-light-fg-dark
         styles:
           self:
             padding:
@@ -129,7 +129,7 @@ sections:
           elementId: ''
           type: ImageBlock
         actions: []
-        colors: bg-neutralAlt-fg-dark
+        colors: bg-light-fg-dark
         styles:
           self:
             padding:
@@ -154,7 +154,7 @@ sections:
           elementId: ''
           type: ImageBlock
         actions: []
-        colors: bg-neutralAlt-fg-dark
+        colors: bg-light-fg-dark
         styles:
           self:
             padding:
@@ -178,7 +178,7 @@ sections:
         type: Button
     elementId: ''
     variant: two-col-grid
-    colors: bg-neutral-fg-dark
+    colors: bg-light-fg-dark
     styles:
       self:
         padding:
@@ -189,6 +189,34 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
+  - posts:
+      - content/pages/blog/case-study-1.md
+      - content/pages/blog/case-study-2.md
+      - content/pages/blog/case-study-3.md
+    showThumbnail: true
+    showDate: true
+    showAuthor: true
+    variant: three-col-grid
+    colors: bg-dark-fg-light
+    styles:
+      self:
+        padding:
+          - pt-16
+          - pl-16
+          - pb-16
+          - pr-16
+        justifyContent: center
+    type: FeaturedPostsSection
+    hoverEffect: move-up
+    title:
+      type: TitleBlock
+      text: Past Involvements
+      color: text-light
+      styles:
+        self:
+          textAlign: center
+          fontWeight: 400
+    actions: []
   - subtitle: "Partners\_and Projects"
     images:
       - url: /images/empathy-logo.svg
@@ -220,34 +248,6 @@ sections:
       subtitle:
         textAlign: center
     type: ImageGallerySection
-  - posts:
-      - content/pages/blog/case-study-1.md
-      - content/pages/blog/case-study-2.md
-      - content/pages/blog/case-study-3.md
-    showThumbnail: true
-    showDate: true
-    showAuthor: true
-    variant: three-col-grid
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        padding:
-          - pt-16
-          - pl-16
-          - pb-16
-          - pr-16
-        justifyContent: center
-    type: FeaturedPostsSection
-    hoverEffect: move-up
-    title:
-      type: TitleBlock
-      text: Past Involvements
-      color: text-dark
-      styles:
-        self:
-          textAlign: center
-          fontWeight: 400
-    actions: []
   - title: Divider
     colors: bg-light-fg-dark
     styles:
@@ -319,7 +319,7 @@ sections:
     title:
       type: TitleBlock
       text: A GOOD PARTNER
-      color: text-dark
+      color: text-light
     subtitle: Be in good company
     text: >
       A service that provides advice and guidance to startups and small
@@ -342,14 +342,25 @@ sections:
       type: ImageBlock
       url: /images/1702579367980.jpeg
       altText: Dope design preview
-    colors: bg-light-fg-dark
+    colors: bg-dark-fg-light
     styles:
       self:
         alignItems: center
         flexDirection: row-reverse
+  - type: DividerSection
+    title: Divider
+    elementId: ''
+    colors: bg-dark-fg-light
+    styles:
+      self:
+        padding:
+          - pt-3
+          - pl-3
+          - pb-3
+          - pr-3
   - title:
       text: WELL RESEARCHED
-      color: text-dark
+      color: text-light
       type: TitleBlock
     subtitle: BLOCKCHAIN AND CROWDFUNDING
     text: >
@@ -370,26 +381,16 @@ sections:
         self:
           padding:
             - pl-0
-    colors: bg-light-fg-dark
+    colors: bg-dark-fg-light
     styles:
       self:
         alignItems: center
         padding:
-          - pt-16
-          - pb-16
+          - pt-28
+          - pb-28
           - pl-32
           - pr-0
     type: GenericSection
-  - title: Divider
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        padding:
-          - pt-7
-          - pl-7
-          - pb-7
-          - pr-7
-    type: DividerSection
   - type: CarouselSection
     title: null
     subtitle: What our customers say about us
@@ -411,7 +412,7 @@ sections:
               borderRadius: full
           type: ImageBlock
         actions: []
-        colors: bg-neutralAlt-fg-dark
+        colors: bg-light-fg-dark
         styles:
           self:
             padding:
@@ -561,7 +562,7 @@ sections:
               borderRadius: full
           type: ImageBlock
         actions: []
-        colors: bg-dark-fg-light
+        colors: bg-light-fg-dark
         styles:
           self:
             padding:

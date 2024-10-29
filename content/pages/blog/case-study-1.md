@@ -71,7 +71,7 @@ bottomSections:
         textAlign: center
     type: FeaturedItemsSection
 isFeatured: true
-colors: bg-light-fg-dark
+colors: bg-dark-fg-light
 styles:
   self:
     padding:
@@ -80,7 +80,7 @@ styles:
       - pb-5
       - pr-5
     textAlign: center
-    borderColor: border-light
+    borderColor: border-dark
     borderStyle: none
     borderWidth: 0
     borderRadius: none
