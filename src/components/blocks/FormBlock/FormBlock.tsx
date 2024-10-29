@@ -1,7 +1,7 @@
 import * as React from 'react';
 import classNames from 'classnames';
 import { mapStylesToClassNames as mapStyles } from '../../../utils/map-styles-to-class-names';
-import { FormBlockType } from '.';
+import FormBlockType from '.';
 
 export default function FormBlock(props: FormBlockType) {
     const { elementId, className, fields = [], submitButton, styles = {} } = props;
