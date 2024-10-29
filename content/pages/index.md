@@ -322,6 +322,7 @@ sections:
         padding:
           - pt-8
           - pb-8
+          - pr-3
       subtitle:
         textAlign: left
   - type: GenericSection
