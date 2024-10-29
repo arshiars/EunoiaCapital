@@ -485,7 +485,9 @@ sections:
       url: /images/skyscraper-with-word-city-bottom.jpg
 seo:
   metaTitle: Eunoia Capital - Home
-  metaDescription: This demo site is built with Netlify Create.
+  metaDescription: >-
+    Eunoia Capital is a real estate investment firm based in Canada that uses
+    cutting-edge technology to identify investment opportunities.
   socialImage: /images/Eunoia Capital logo (gold on deep blue bg).png
   type: Seo
 type: PageLayout
