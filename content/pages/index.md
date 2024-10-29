@@ -441,7 +441,6 @@ sections:
           width: full
           type: TextareaFormControl
       elementId: contact-form
-      data-netlify: "true"
       styles:
         self:
           padding:
