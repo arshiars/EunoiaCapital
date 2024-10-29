@@ -150,7 +150,7 @@ sections:
           diversifying our portfolio to minimize unsystematic risk focusing on
           long-term survival.
         image:
-          url: /images/undo.png
+          url: /images/EunoiaCapital-mix.png
           altText: Featured icon three
           elementId: ''
           type: ImageBlock
