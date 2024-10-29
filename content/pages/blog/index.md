@@ -5,10 +5,10 @@ numOfPostsPerPage: 12
 enableSearch: true
 topSections:
   - title:
-      text: Featured Post
+      text: Eunoia Capital Blog
       color: text-dark
       type: TitleBlock
-    subtitle: This is the subtitle
+    subtitle: ''
     posts:
       - content/pages/blog/top-ten-lessons-we-learned.md
     showThumbnail: true
@@ -31,10 +31,10 @@ styles:
   title:
     textAlign: center
 seo:
-  metaTitle: Blog - Demo site
+  metaTitle: Blog - Eunoia Capital
   metaDescription: >-
-    This is the blog of the demo site where we post about technology, product,
-    and design.
+    On this blog, we share everything related to real estate, technology, and
+    finance.
   socialImage: /images/img-placeholder.svg
   type: Seo
 type: PostFeedLayout
