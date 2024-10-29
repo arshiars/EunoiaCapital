@@ -222,7 +222,7 @@ sections:
           textAlign: center
           fontWeight: 400
     actions: []
-  - subtitle: "Partners\_and Projects"
+  - subtitle: ''
     images:
       - url: /images/empathy-logo.svg
         altText: Empathy logo
