@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Bringing Canadian Real Estate Opportunities Under One Roof
+      text: Bringing Canadian Real Estate Investments Under One Roof
       color: text-dark
       type: TitleBlock
       styles:
