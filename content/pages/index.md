@@ -420,7 +420,7 @@ sections:
     text: ''
     media:
       elementId: contact-form
-      data-netlify: true
+      data-netlify: "true"
       fields:
         - name: form-name
           type: HiddenFormControl
