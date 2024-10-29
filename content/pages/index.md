@@ -405,7 +405,7 @@ sections:
         alignItems: center
         padding:
           - pt-8
-          - pb-28
+          - pb-8
           - pl-3
           - pr-3
     type: GenericSection
