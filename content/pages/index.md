@@ -419,7 +419,12 @@ sections:
       hour.
     text: ''
     media:
+      elementId: contact-form
+      data-netlify: "true"
       fields:
+        - name: form-name
+        type: HiddenFormControl
+        value: contact-form
         - name: name
           label: Name
           hideLabel: true
@@ -440,7 +445,6 @@ sections:
           placeholder: Your message
           width: full
           type: TextareaFormControl
-      elementId: contact-form
       styles:
         self:
           padding:
