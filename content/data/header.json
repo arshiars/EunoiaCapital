@@ -41,6 +41,15 @@
             "elementId": ""
         },
         {
+            "label": "Careers",
+            "altText": "Careers page",
+            "url": "",
+            "icon": "arrowRight",
+            "iconPosition": "right",
+            "style": "secondary",
+            "type": "Link"
+        },
+        {
             "type": "Link",
             "label": "See Tutorials",
             "altText": "",
@@ -50,15 +59,6 @@
             "iconPosition": "right",
             "style": "secondary",
             "elementId": ""
-        },
-        {
-            "label": "Careers",
-            "altText": "Careers page",
-            "url": "",
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "secondary",
-            "type": "Link"
         }
     ],
     "secondaryLinks": [
