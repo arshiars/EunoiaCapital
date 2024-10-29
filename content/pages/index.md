@@ -90,7 +90,7 @@ sections:
           type: ImageBlock
           altText: Lightning bolt symbol on red background
           elementId: ''
-          url: /images/EunoiaCapital-mindset.png
+          url: /images/EunoiaCapital-numbers.png
           styles:
             self:
               borderRadius: x-large
