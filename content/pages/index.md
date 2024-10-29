@@ -257,6 +257,9 @@ sections:
       type: TitleBlock
       text: Trusted by
       color: text-dark
+      styles:
+        self:
+          textAlign: center
   - title: Divider
     colors: bg-light-fg-dark
     styles:
