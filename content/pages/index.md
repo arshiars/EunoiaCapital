@@ -365,6 +365,7 @@ sections:
           - pt-8
           - pb-8
           - pl-3
+          - pr-3
   - type: DividerSection
     title: Divider
     elementId: ''
