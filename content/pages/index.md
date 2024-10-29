@@ -49,7 +49,7 @@ sections:
           - pt-7
           - pl-3
           - pb-7
-          - pr-2
+          - pr-3
     backgroundImage:
       type: BackgroundImage
       altText: altText of the image
