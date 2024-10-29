@@ -320,7 +320,7 @@ sections:
         flexDirection: row
         justifyContent: center
         padding:
-          - pt-32
+          - pt-8
           - pb-32
       subtitle:
         textAlign: left
