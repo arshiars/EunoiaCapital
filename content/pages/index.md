@@ -336,7 +336,7 @@ sections:
       color: text-light
       styles:
         self:
-          textAlign: center
+          textAlign: left
     subtitle: Be in good company
     text: >+
       <div style="text-align: left">A service that provides advice and guidance
