@@ -419,8 +419,6 @@ sections:
       hour.
     text: ''
     media:
-      elementId: contact-form  # Unique ID for the form element
-      data-netlify: "true"     # Enables Netlify form handling
       fields:
         - name: name
           label: Name
@@ -443,6 +441,7 @@ sections:
           width: full
           type: TextareaFormControl
       elementId: contact-form
+      data-netlify: "true"
       styles:
         self:
           padding:
