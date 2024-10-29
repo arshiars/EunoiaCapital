@@ -209,7 +209,7 @@ sections:
           - pt-16
           - pl-3
           - pb-16
-          - pr-2
+          - pr-3
         justifyContent: center
     type: FeaturedPostsSection
     hoverEffect: move-up
