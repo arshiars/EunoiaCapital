@@ -370,7 +370,7 @@ sections:
         self:
           padding:
             - pl-0
-    colors: bg-light-fg-dark
+    colors: bg-dark-fg-light
     styles:
       self:
         alignItems: center
