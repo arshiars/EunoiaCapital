@@ -338,7 +338,13 @@ sections:
     text: >
       A service that provides advice and guidance to startups and small
       businesses.
-    actions: []
+    actions:
+      - type: Button
+        label: Submit Your Investment Opportunity
+        url: /
+        icon: arrowRight
+        iconPosition: right
+        style: secondary
     media:
       type: ImageBlock
       url: /images/1702579367980.jpeg
