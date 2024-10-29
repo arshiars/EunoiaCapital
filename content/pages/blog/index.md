@@ -33,8 +33,8 @@ styles:
 seo:
   metaTitle: Blog - Eunoia Capital
   metaDescription: >-
-    This is the blog of the demo site where we post about technology, product,
-    and design.
+    On this blog, we share everything related to real estate, technology, and
+    finance.
   socialImage: /images/img-placeholder.svg
   type: Seo
 type: PostFeedLayout
