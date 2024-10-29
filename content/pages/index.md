@@ -423,8 +423,8 @@ sections:
       data-netlify: "true"
       fields:
         - name: form-name
-        type: HiddenFormControl
-        value: contact-form
+          type: HiddenFormControl
+          value: contact-form
         - name: name
           label: Name
           hideLabel: true
