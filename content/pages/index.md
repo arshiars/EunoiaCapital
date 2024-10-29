@@ -440,7 +440,7 @@ sections:
           placeholder: Your message
           width: full
           type: TextareaFormControl
-      elementId: contact-form
+      elementId: contact
       styles:
         self:
           padding:
