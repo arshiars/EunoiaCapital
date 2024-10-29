@@ -26,6 +26,8 @@ styles:
 type: PostLayout
 author: content/data/person1.json
 ---
+This blog post breaks down the Canadian financial industry by sectors and companies. 
+
 TABLE OF CONTENTS
 
 Þ   Banking
