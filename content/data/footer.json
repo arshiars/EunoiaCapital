@@ -58,14 +58,7 @@
         ],
         "type": "FooterLinksGroup"
     },
-    "socialLinks": [
-        {
-            "altText": "LinkedIn link",
-            "url": "https://www.linkedin.com/company/netlify",
-            "icon": "linkedin",
-            "type": "Social"
-        }
-    ],
+    "socialLinks": [],
     "legalLinks": [
         {
             "label": "Terms",
