@@ -44,7 +44,10 @@ export default function FormBlock(props) {
             onSubmit={handleSubmit}
             ref={formRef}
             data-sb-field-path= {fieldPath}
+            data-netlify="true" // Required for Netlify form handling - added by Ash
         >
+            <input type="hidden" name="form-name" value={elementId} /> {/* Required for Netlify */} // Added by Ash
+            
             <div
                 className={classNames('w-full', 'flex', 'flex-wrap', 'gap-8', mapStyles({ justifyContent: styles?.self?.justifyContent ?? 'flex-start' }))}
                 {...(fieldPath && { 'data-sb-field-path': '.fields' })}
