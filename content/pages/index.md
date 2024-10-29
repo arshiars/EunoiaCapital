@@ -98,6 +98,30 @@ sections:
           styles:
             self:
               borderRadius: x-large
+      - title: Right People
+        subtitle: Character over chaos.
+        text: >
+          We seek management teams in our portfolio companies that demonstrate a
+          blend of intelligence, integrity, and drive. 
+        image:
+          url: /images/EunoiaCapital-people.png
+          altText: Featured icon two
+          elementId: ''
+          type: ImageBlock
+        actions: []
+        colors: bg-light-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-4
+              - pl-8
+              - pb-4
+              - pr-8
+            borderRadius: x-large
+            flexDirection: row
+            textAlign: left
+            justifyContent: center
+        type: FeaturedItem
       - type: FeaturedItem
         title: Right Mindset
         tagline: ''
@@ -123,30 +147,6 @@ sections:
               - pr-4
             borderRadius: x-large
             flexDirection: row
-      - title: Right People
-        subtitle: Character over chaos.
-        text: >
-          We seek management teams in our portfolio companies that demonstrate a
-          blend of intelligence, integrity, and drive. 
-        image:
-          url: /images/EunoiaCapital-people.png
-          altText: Featured icon two
-          elementId: ''
-          type: ImageBlock
-        actions: []
-        colors: bg-light-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-4
-              - pl-8
-              - pb-4
-              - pr-8
-            borderRadius: x-large
-            flexDirection: row
-            textAlign: left
-            justifyContent: center
-        type: FeaturedItem
       - title: Right Mix
         subtitle: All in for error-correction.
         text: >
