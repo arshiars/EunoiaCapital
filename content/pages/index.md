@@ -419,8 +419,6 @@ sections:
       hour.
     text: ''
     media:
-      elementId: contact-form
-      data-netlify: true
       fields:
         - name: name
           label: Name
@@ -442,6 +440,8 @@ sections:
           placeholder: Your message
           width: full
           type: TextareaFormControl
+      elementId: contact-form
+      data-netlify: true
       styles:
         self:
           padding:
