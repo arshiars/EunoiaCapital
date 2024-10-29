@@ -484,7 +484,7 @@ sections:
       opacity: 11
       url: /images/skyscraper-with-word-city-bottom.jpg
 seo:
-  metaTitle: Home - Demo site
+  metaTitle: Eunoia Capital - Home
   metaDescription: This demo site is built with Netlify Create.
   socialImage: /images/main-hero.jpg
   type: Seo
