@@ -472,7 +472,7 @@ sections:
           - pt-16
           - pb-16
           - pr-8
-          - pl-8
+          - pl-3
     elementId: contact-us
     backgroundImage:
       type: BackgroundImage
