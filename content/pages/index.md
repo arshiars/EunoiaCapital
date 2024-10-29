@@ -341,12 +341,6 @@ sections:
     actions:
       - type: Button
         label: Get started
-        url: /
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-      - type: Button
-        label: Get started
         altText: ''
         url: /
         showIcon: false
