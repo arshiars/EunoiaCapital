@@ -55,6 +55,16 @@
                 "iconPosition": "right",
                 "style": "secondary",
                 "type": "Link"
+            },
+            {
+                "type": "Link",
+                "altText": "LinkedIn",
+                "url": "/",
+                "showIcon": true,
+                "icon": "linkedin",
+                "iconPosition": "left",
+                "style": "secondary",
+                "elementId": ""
             }
         ],
         "type": "FooterLinksGroup"
