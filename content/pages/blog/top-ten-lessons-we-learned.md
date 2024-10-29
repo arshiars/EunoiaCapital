@@ -7,7 +7,7 @@ excerpt: >-
   facere sit repellat quidem qui alias nostrum et earum enim. Cum quis sint eos
   dolor quas ad odit ipsum qui quia eius.
 featuredImage:
-  url: /images/abstract-feature2.svg
+  url: /images/scenic-toronto-financial-district-skyline-0cad57.jpg
   altText: Thumbnail
   type: ImageBlock
   styles:
