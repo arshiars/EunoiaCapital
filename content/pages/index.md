@@ -222,7 +222,7 @@ sections:
           textAlign: center
           fontWeight: 400
     actions: []
-    elementId: '#investments'
+    elementId: investments
   - subtitle: ''
     images:
       - url: /images/empathy-logo.svg
