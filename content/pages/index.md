@@ -407,7 +407,7 @@ sections:
           - pt-28
           - pb-28
           - pl-3
-          - pr-0
+          - pr-3
     type: GenericSection
   - type: CarouselSection
     title: null
