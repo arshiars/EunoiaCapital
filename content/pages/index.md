@@ -362,6 +362,8 @@ sections:
           - pb-8
           - pl-3
           - pr-3
+      subtitle:
+        textAlign: center
   - type: DividerSection
     title: Divider
     elementId: ''
