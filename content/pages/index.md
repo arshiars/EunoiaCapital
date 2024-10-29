@@ -441,6 +441,11 @@ sections:
           width: full
           type: TextareaFormControl
       elementId: contact
+    # Add these Netlify-specific attributes
+      netlify: true
+      name: contact
+      method: POST
+      data-netlify: true
       styles:
         self:
           padding:
