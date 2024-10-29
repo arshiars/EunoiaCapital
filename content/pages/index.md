@@ -440,8 +440,7 @@ sections:
           placeholder: Your message
           width: full
           type: TextareaFormControl
-      elementId: contact-form
-      data-netlify: true
+      elementId: contact
       styles:
         self:
           padding:
