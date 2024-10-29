@@ -289,7 +289,7 @@ sections:
 
     actions:
       - type: Button
-        label: Submit Your Technology Idea
+        label: Access REIT Valuation GitHub
         altText: ''
         url: '#contact-us'
         showIcon: false
