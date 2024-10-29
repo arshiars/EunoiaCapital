@@ -304,10 +304,10 @@ sections:
       styles:
         self:
           padding:
-            - pt-2
-            - pb-2
-            - pl-2
-            - pr-2
+            - pt-1
+            - pb-1
+            - pl-1
+            - pr-1
           borderColor: border-dark
           borderStyle: solid
           borderWidth: 1
