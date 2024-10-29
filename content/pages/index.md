@@ -42,7 +42,7 @@ sections:
         alignItems: center
         flexDirection: row
         padding:
-          - pt-48
+          - pt-8
           - pl-16
           - pb-48
           - pr-16
