@@ -98,8 +98,11 @@ sections:
         title: Right Mindset
         tagline: ''
         subtitle: Patience before action.
-        text: |
-          Follow the tutorial to build your first Netlify Create site.
+        text: >
+          We approach each investment opportunity with an open mind, balancing
+          curiosity with caution. We execute only when we’ve achieved a high
+          level of confidence, prioritizing strategic choices over impulsive
+          ones to avoid the pitfalls of FOMO.
         image:
           type: ImageBlock
           url: /images/abstract-feature1.svg
