@@ -377,7 +377,7 @@ sections:
           - pb-3
           - pr-3
   - title:
-      text: WELL RESEARCHED
+      text: Cutting-edge
       color: text-light
       type: TitleBlock
     subtitle: BLOCKCHAIN AND CROWDFUNDING
