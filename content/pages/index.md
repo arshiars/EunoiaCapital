@@ -406,7 +406,7 @@ sections:
         padding:
           - pt-28
           - pb-28
-          - pl-32
+          - pl-3
           - pr-0
     type: GenericSection
   - type: CarouselSection
