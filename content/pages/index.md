@@ -95,7 +95,7 @@ sections:
             self:
               borderRadius: x-large
       - type: FeaturedItem
-        title: Feature Item One
+        title: Right Mindset
         tagline: ''
         subtitle: This is the item subtitle
         text: |
