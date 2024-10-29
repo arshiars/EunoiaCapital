@@ -349,7 +349,7 @@ sections:
         flexDirection: row-reverse
   - title:
       text: WELL RESEARCHED
-      color: text-dark
+      color: text-light
       type: TitleBlock
     subtitle: BLOCKCHAIN AND CROWDFUNDING
     text: >
