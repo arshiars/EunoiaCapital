@@ -33,7 +33,7 @@
             "type": "Link",
             "label": "Investments",
             "altText": "",
-            "url": "/",
+            "url": "#investments",
             "showIcon": false,
             "icon": "arrowRight",
             "iconPosition": "right",
