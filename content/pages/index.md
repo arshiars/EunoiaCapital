@@ -90,19 +90,20 @@ sections:
           type: ImageBlock
           altText: Lightning bolt symbol on red background
           elementId: ''
-          url: /images/swan.png
+          url: /images/EunoiaCapital-numbers.png
           styles:
             self:
               borderRadius: x-large
       - type: FeaturedItem
-        title: Feature Item One
+        title: Right Mindset
         tagline: ''
-        subtitle: This is the item subtitle
-        text: |
-          Follow the tutorial to build your first Netlify Create site.
+        subtitle: Patience before action.
+        text: >
+          We stay open to new opportunities and act only with strong conviction,
+          avoiding the pitfalls of FOMO.
         image:
           type: ImageBlock
-          url: /images/abstract-feature1.svg
+          url: /images/EunoiaCapital-mindset.png
           altText: Placeholder text
           styles:
             self:
@@ -124,7 +125,7 @@ sections:
           We seek management teams in our portfolio companies that demonstrate a
           blend of intelligence, integrity, and drive. 
         image:
-          url: /images/Roots.png
+          url: /images/EunoiaCapital-people.png
           altText: Featured icon two
           elementId: ''
           type: ImageBlock
@@ -146,10 +147,10 @@ sections:
         subtitle: All in for error-correction.
         text: >
           We recognize that mistakes are inevitable, and we focus on
-          diversifying our portfolio to minimize unsystematic risk with a focus
-          on long-term survival. 
+          diversifying our portfolio to minimize unsystematic risk focusing on
+          long-term survival.
         image:
-          url: /images/undo.png
+          url: /images/EunoiaCapital-mix.png
           altText: Featured icon three
           elementId: ''
           type: ImageBlock
