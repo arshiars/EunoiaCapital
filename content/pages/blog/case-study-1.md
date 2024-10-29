@@ -78,7 +78,7 @@ styles:
       - pt-3
       - pl-3
       - pb-5
-      - pr-5
+      - pr-3
     textAlign: center
     borderColor: border-dark
     borderStyle: none
