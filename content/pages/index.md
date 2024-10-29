@@ -444,7 +444,7 @@ sections:
         self:
           padding:
             - pt-0
-            - pb-2
+            - pb-0
             - pl-6
             - pr-6
           borderColor: border-dark
