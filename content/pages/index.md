@@ -100,7 +100,7 @@ sections:
         subtitle: Patience before action.
         text: >
           We stay open to new opportunities and act only with strong conviction,
-          avoiding the pitfalls of FOMO."
+          avoiding the pitfalls of FOMO.
         image:
           type: ImageBlock
           url: /images/abstract-feature1.svg
