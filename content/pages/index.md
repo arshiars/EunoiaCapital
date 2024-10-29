@@ -363,6 +363,7 @@ sections:
         flexDirection: row-reverse
         padding:
           - pt-8
+          - pb-8
   - type: DividerSection
     title: Divider
     elementId: ''
