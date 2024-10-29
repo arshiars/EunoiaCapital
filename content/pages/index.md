@@ -190,7 +190,7 @@ sections:
           - pb-8
           - pt-8
           - pl-4
-          - pr-4
+          - pr-3
         justifyContent: center
       subtitle:
         textAlign: center
