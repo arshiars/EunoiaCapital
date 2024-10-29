@@ -103,7 +103,7 @@ sections:
           avoiding the pitfalls of FOMO.
         image:
           type: ImageBlock
-          url: /images/abstract-feature1.svg
+          url: /images/EunoiaCapital-mindset.png
           altText: Placeholder text
           styles:
             self:
