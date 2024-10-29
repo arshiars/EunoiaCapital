@@ -4,9 +4,13 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Bringing Canadian Real Estate Opportunities Under One Roof
+      text: Bringing Canadian Real Estate Investments Under One Roof
       color: text-dark
       type: TitleBlock
+      styles:
+        self:
+          fontWeight: 400
+          textAlign: left
     subtitle: Connecting investors with the best investment projects
     text: >
       Eunoia Capital is a real estate fund focused on development and
@@ -42,10 +46,10 @@ sections:
         alignItems: center
         flexDirection: row
         padding:
-          - pt-48
-          - pl-16
-          - pb-48
-          - pr-16
+          - pt-32
+          - pl-3
+          - pb-32
+          - pr-3
     backgroundImage:
       type: BackgroundImage
       altText: altText of the image
@@ -77,10 +81,10 @@ sections:
         styles:
           self:
             padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
+              - pt-4
+              - pl-4
+              - pb-4
+              - pr-4
             borderRadius: x-large
             flexDirection: row
             justifyContent: center
@@ -94,6 +98,30 @@ sections:
           styles:
             self:
               borderRadius: x-large
+      - title: Right People
+        subtitle: Character over chaos.
+        text: >
+          We seek management teams in our portfolio companies that demonstrate a
+          blend of intelligence, integrity, and drive. 
+        image:
+          url: /images/EunoiaCapital-people.png
+          altText: Featured icon two
+          elementId: ''
+          type: ImageBlock
+        actions: []
+        colors: bg-light-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-4
+              - pl-4
+              - pb-4
+              - pr-4
+            borderRadius: x-large
+            flexDirection: row
+            textAlign: left
+            justifyContent: center
+        type: FeaturedItem
       - type: FeaturedItem
         title: Right Mindset
         tagline: ''
@@ -113,36 +141,12 @@ sections:
         styles:
           self:
             padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
+              - pt-4
+              - pl-4
+              - pb-4
+              - pr-4
             borderRadius: x-large
             flexDirection: row
-      - title: Right People
-        subtitle: Character over chaos.
-        text: >
-          We seek management teams in our portfolio companies that demonstrate a
-          blend of intelligence, integrity, and drive. 
-        image:
-          url: /images/EunoiaCapital-people.png
-          altText: Featured icon two
-          elementId: ''
-          type: ImageBlock
-        actions: []
-        colors: bg-light-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: x-large
-            flexDirection: row
-            textAlign: left
-            justifyContent: center
-        type: FeaturedItem
       - title: Right Mix
         subtitle: All in for error-correction.
         text: >
@@ -159,10 +163,10 @@ sections:
         styles:
           self:
             padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
+              - pt-4
+              - pl-4
+              - pb-4
+              - pr-4
             borderRadius: x-large
             flexDirection: row
             textAlign: left
@@ -183,10 +187,10 @@ sections:
     styles:
       self:
         padding:
-          - pb-16
-          - pt-16
-          - pl-16
-          - pr-16
+          - pb-8
+          - pt-8
+          - pl-3
+          - pr-3
         justifyContent: center
       subtitle:
         textAlign: center
@@ -203,22 +207,22 @@ sections:
       self:
         padding:
           - pt-16
-          - pl-16
+          - pl-3
           - pb-16
-          - pr-16
+          - pr-3
         justifyContent: center
     type: FeaturedPostsSection
     hoverEffect: move-up
     title:
       type: TitleBlock
-      text: Past Involvements
+      text: Investments
       color: text-light
       styles:
         self:
           textAlign: center
           fontWeight: 400
     actions: []
-  - subtitle: "Partners\_and Projects"
+  - subtitle: ''
     images:
       - url: /images/empathy-logo.svg
         altText: Empathy logo
@@ -249,6 +253,13 @@ sections:
       subtitle:
         textAlign: center
     type: ImageGallerySection
+    title:
+      type: TitleBlock
+      text: Trusted by
+      color: text-dark
+      styles:
+        self:
+          textAlign: center
   - title: Divider
     colors: bg-light-fg-dark
     styles:
@@ -296,10 +307,10 @@ sections:
       styles:
         self:
           padding:
-            - pt-2
-            - pb-2
-            - pl-2
-            - pr-2
+            - pt-0
+            - pb-1
+            - pl-1
+            - pr-1
           borderColor: border-dark
           borderStyle: solid
           borderWidth: 1
@@ -312,8 +323,10 @@ sections:
         flexDirection: row
         justifyContent: center
         padding:
-          - pt-32
-          - pb-32
+          - pt-8
+          - pb-16
+          - pr-3
+          - pl-3
       subtitle:
         textAlign: left
   - type: GenericSection
