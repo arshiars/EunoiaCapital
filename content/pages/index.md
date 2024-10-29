@@ -418,6 +418,17 @@ sections:
       We'd love to hear from you! Fill the form and we'll respond within one
       hour.
     text: ''
+<form name="contact" netlify>
+  <p>
+    <label>Name <input type="text" name="name" /></label>
+  </p>
+  <p>
+    <label>Email <input type="email" name="email" /></label>
+  </p>
+  <p>
+    <button type="submit">Send</button>
+  </p>
+</form>
     media:
       fields:
         - name: name
