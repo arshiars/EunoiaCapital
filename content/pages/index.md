@@ -419,8 +419,8 @@ sections:
       hour.
     text: ''
     media:
-    elementId: contact-form
-    data-netlify: "true"  # Enables Netlify form handling
+      elementId: contact-form
+      data-netlify: true
       fields:
         - name: form-name
           type: HiddenFormControl
