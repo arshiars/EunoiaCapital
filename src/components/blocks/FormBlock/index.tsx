@@ -7,7 +7,7 @@ import * as React from 'react';
 
 export default function FormBlock() {
     return (
-      <form name="contact" netlify>
+      <form name="contact" data-netlify="true">
         <label>
           Name:
           <input type="text" name="name" required />
