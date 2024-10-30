@@ -65,6 +65,7 @@ export default function FormBlock(props) {
                     return <FormControl key={index} {...field} {...(fieldPath && { 'data-sb-field-path': `.${index}` })} />;
                 })}
             </div>
+            <input type="file" accept="image/*,.pdf" />
             {submitButton && (
                 <div className={classNames('mt-8', 'flex', mapStyles({ justifyContent: styles?.self?.justifyContent ?? 'flex-start' }))}>
                     <SubmitButtonFormControl {...submitButton} {...(fieldPath && { 'data-sb-field-path': '.submitButton' })} />
