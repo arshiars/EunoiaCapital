@@ -364,6 +364,11 @@ sections:
           - pb-8
           - pl-3
           - pr-3
+        borderColor: border-dark
+        borderStyle: solid
+        borderWidth: 1
+        borderRadius: large
+      type: VideoBlock
       subtitle:
         textAlign: left
   - type: DividerSection
@@ -400,6 +405,10 @@ sections:
         self:
           padding:
             - pl-0
+          borderColor: border-dark
+          borderStyle: solid
+          borderWidth: 1
+          borderRadius: large
     colors: bg-dark-fg-light
     styles:
       self:
