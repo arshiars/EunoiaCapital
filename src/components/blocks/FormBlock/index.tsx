@@ -13,12 +13,12 @@ export default function FormBlock(props) {
         return null;
     }
 
-    function handleSubmit(event) {
-        event.preventDefault();
-        const data = new FormData(formRef.current);
-        const value = Object.fromEntries(data.entries());
-        alert(`Form data: ${JSON.stringify(value)}`);
-    }
+    // function handleSubmit(event) {
+    //     event.preventDefault();
+    //     const data = new FormData(formRef.current);
+    //     const value = Object.fromEntries(data.entries());
+    //     alert(`Form data: ${JSON.stringify(value)}`);
+    // }
 
     return (
         <form 
@@ -39,9 +39,10 @@ export default function FormBlock(props) {
                 styles?.self?.borderRadius ? mapStyles({ borderRadius: styles?.self?.borderRadius }) : undefined
             )}
             name={elementId}
-            data-netlify={true}
+            data-netlify='true'
+            method='POST'
             id={elementId}
-            onSubmit={handleSubmit}
+            // onSubmit={handleSubmit}
             ref={formRef}
             data-sb-field-path={fieldPath}
         >
