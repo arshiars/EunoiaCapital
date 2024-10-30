@@ -4,5 +4,5 @@
   functions = ".netlify/functions"
 
 [[plugins]]
-  package = "@opennextjs/netlify"
+  package = "@netlify/plugin-nextjs"
 
