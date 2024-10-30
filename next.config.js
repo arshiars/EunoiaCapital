@@ -6,8 +6,8 @@ const nextConfig = {
         stackbitPreview: process.env.STACKBIT_PREVIEW
     },
     trailingSlash: true,
-    reactStrictMode: true,
-    swcMinify: true,
+    reactStrictMode: true
+    // swcMinify: true,
 };
 
 module.exports = nextConfig;
