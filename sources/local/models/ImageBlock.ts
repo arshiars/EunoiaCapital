@@ -77,7 +77,7 @@ export const ImageBlock: Model = {
                             color: '$primary'
                         }
                     ],
-                    borderRadius: '*'
+                    borderRadius: '10'
                 }
             }
         }
