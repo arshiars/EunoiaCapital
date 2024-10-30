@@ -8,9 +8,9 @@ const nextConfig = {
     trailingSlash: true,
     reactStrictMode: true,
     swcMinify: true,
-    experimental: { 
-        netlifyFunctions: true, // Enable Netlify Functions for forms - added by Ash
-    },
+    // experimental: { 
+    //     netlifyFunctions: true, // Enable Netlify Functions for forms - added by Ash
+    // },
 };
 
 module.exports = nextConfig;
