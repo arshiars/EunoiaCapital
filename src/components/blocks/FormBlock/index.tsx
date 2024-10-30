@@ -23,8 +23,7 @@ export default function FormBlock(props) {
     }
 
     return (
-        <form
-            data-netlify={true}
+        <form 
             className={classNames(
                 'sb-component',
                 'sb-component-block',
@@ -41,11 +40,19 @@ export default function FormBlock(props) {
                     : undefined,
                 styles?.self?.borderRadius ? mapStyles({ borderRadius: styles?.self?.borderRadius }) : undefined
             )}
-            name={elementId}
-            id={elementId}
-            onSubmit={handleSubmit}
-            ref={formRef}
-            data-sb-field-path={fieldPath}
+            data-netlify={true}
+            data-netlify-recaptcha={true}
+            name={contact}
+            // id={elementId}
+            onSubmit={"/thank you"}
+            // ref={formRef}
+            // data-sb-field-path={fieldPath}
+
+            // name={elementId}
+            // id={elementId}
+            // onSubmit={handleSubmit}
+            // ref={formRef}
+            // data-sb-field-path={fieldPath}
         >
             <div
                 className={classNames('w-full', 'flex', 'flex-wrap', 'gap-8', mapStyles({ justifyContent: styles?.self?.justifyContent ?? 'flex-start' }))}
@@ -71,4 +78,3 @@ export default function FormBlock(props) {
             )}
         </form>
         )}
-        
