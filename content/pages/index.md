@@ -350,9 +350,10 @@ sections:
         icon: arrowRight
         iconPosition: right
         style: secondary
+
     media:
-      type: ImageBlock
       url: /images/1702579367980.jpeg
+      type: ImageBlock
       altText: Dope design preview
     colors: bg-dark-fg-light
     styles:
@@ -368,9 +369,7 @@ sections:
         borderStyle: solid
         borderWidth: 1
         borderRadius: large
-      type: VideoBlock
-      subtitle:
-        textAlign: left
+
   - type: DividerSection
     title: Divider
     elementId: ''
