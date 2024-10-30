@@ -102,7 +102,7 @@ sections:
         subtitle: Character over chaos.
         text: >
           We seek management teams in our portfolio companies that demonstrate a
-          blend of intelligence, integrity, and drive. 
+          blend of intelligence, integrity, and drive.
         image:
           url: /images/EunoiaCapital-people.png
           altText: Featured icon two
@@ -441,11 +441,6 @@ sections:
           width: full
           type: TextareaFormControl
       elementId: contact
-    # Add these Netlify-specific attributes
-      netlify: true
-      name: contact
-      method: POST
-      data-netlify: true
       styles:
         self:
           padding:
