@@ -6,24 +6,24 @@ import * as React from 'react';
 // import SubmitButtonFormControl from './SubmitButtonFormControl';
 
 export default function FormBlock() {
-    return (
-      <form name="contact" data-netlify="true">
-        <label>
-          Name:
-          <input type="text" name="name" required />
-        </label>
-        <label>
-          Email:
-          <input type="email" name="email" required />
-        </label>
-        <label>
-          Message:
-          <textarea name="message" required></textarea>
-        </label>
-        <button type="submit">Submit</button>
-      </form>
-    );
-  }
+  return (
+    <form name="contact" data-netlify="true">
+      <label>
+        Name:
+        <input type="text" name="name" required />
+      </label>
+      <label>
+        Email:
+        <input type="email" name="email" required />
+      </label>
+      <label>
+        Message:
+        <textarea name="message" required></textarea>
+      </label>
+      <button type="submit">Submit</button>
+    </form>
+  );
+}
 // export default function FormBlock(props) {
 //     const formRef = React.createRef<HTMLFormElement>();
 //     const { fields = [], elementId, submitButton, className, styles = {}, 'data-sb-field-path': fieldPath } = props;
