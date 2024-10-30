@@ -42,9 +42,9 @@ export default function FormBlock(props) {
             )}
             data-netlify={true}
             data-netlify-recaptcha={true}
-            name={contact}
-            // id={elementId}
-            onSubmit={"/thank you"}
+            // name={contact}
+            id={elementId}
+            // onSubmit={"/thank you"}
             // ref={formRef}
             // data-sb-field-path={fieldPath}
 
